@@ -19,11 +19,11 @@ Utilizando scripts em **Python** e **Engenharia de Prompt**, cada aula do W3Scho
 
 ## 📚 Cursos Disponíveis
 
-### 1. [Linguagem R](./aulas_R/00_Sumario.md)
+### [Linguagem R](./aulas_R/00_Sumario.md)
 
 ---
 
-## 🛠️ Bastidores (Stack Tecnológica)
+## 🛠️ Bastidores
 
 * **Fonte Original:** [W3Schools](https://www.w3schools.com/)
 * **Inteligência Artificial:** Google Gemini API
