@@ -12,7 +12,7 @@ Este repositório nasceu da necessidade de transformar documentações web fragm
 Utilizando scripts em **Python** e **Engenharia de Prompt**, cada aula do W3Schools passou por um processo de:
 
 1. **Tradução Técnica:** Localização para Português (Brasil) preservando a terminologia essencial do mercado.
-2. **Design Instrucional:** Aplicação de um estilo visual e textual inspirado em livros didáticos modernos (Inspirado em Jon Duckett).
+2. **Organização Didática:** Reestruturação do conteúdo em capítulos lógicos, indo da fundação aos tópicos avançados.
 3. **Navegação Inteligente:** Injeção de botões de navegação e sumários automáticos para uma experiência de aprendizado contínua.
 
 ---
@@ -20,7 +20,7 @@ Utilizando scripts em **Python** e **Engenharia de Prompt**, cada aula do W3Scho
 ## 📚 Cursos Disponíveis
 
 ### [Linguagem R](./Linguagem_R/00_Sumario.md)
-### [Programação MySQL](./Programacao_MySQL/00_Sumario.md)
+### [Programação MySQL](./Programacao_MySQL/Capítulo_00_-_Sumario.md)
 
 ---
 
