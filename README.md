@@ -20,6 +20,7 @@ Utilizando scripts em **Python** e **Engenharia de Prompt**, cada aula do W3Scho
 ## 📚 Cursos Disponíveis
 
 ### [Linguagem R](./Linguagem_R/00_Sumario.md)
+### [Programação MySQL](./Programacao_MySQL/00_Sumario.md)
 
 ---
 
